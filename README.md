@@ -1,5 +1,5 @@
 ### milestone_2_nlp_695
-# Predicting the text dificulting of Wikiepedia comments
+# Predicting the text dificulty of Wikiepedia comments
 ## Cory Bilyeu
 
 ### Motivation
